@@ -1,1 +1,1 @@
-
+Gradient descent is used to minimize a cost function J(W) parameterized by a model parameters W. The gradient (or derivative) tells us the incline or slope of the cost function. Hence, to minimize the cost function, we move in the direction opposite to the gradient.
